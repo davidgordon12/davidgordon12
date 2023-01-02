@@ -1,3 +1,3 @@
 ### Hi there 👋
-<p>   My name is David. I'm a student and love to create and learn. Programming is a perfect avenue for both of my passions, so I spend a lot of my time creating software and web applications alike. I've spent the majority of my time developing creating Full-Stack web apps, or Desktop applications, mainly using C#, and .NET Core, but have recently taken an interest in lower-level programming, specifically with Rust
+<p>   My name is David. I'm a student and love to create and learn. Programming is a perfect avenue for both of my passions, so I spend a lot of my time creating software and web applications alike. I've spent the majority of my time developing creating Full-Stack web apps, or Desktop applications, mainly using C#, and .NET Core, but have recently taken an interest in lower-level programming, specifically with Rust🦀
 </p>
