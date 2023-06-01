@@ -1,5 +1,6 @@
 ### Hi there 👋
-<p>   My name is David. I'm a software engineer who loves to create and learn. Programming is a perfect avenue for both of my passions, so I spend a lot of my time creating software and web applications alike. I've spent the majority of my time developing creating Full-Stack web apps, or Desktop applications, mainly using C#, and .NET Core, but have recently taken an interest in lower-level programming, specifically with Rust🦀
+<p>   My name is David. I'm a software engineer who loves to learn how thingswork. I spend a lot of my time creating software to help me on my journey of becoming a great developer. <br />
+      I have experience in a wide range of frameworks and languages, and the list keeps on expanding! Feel free to take a look through my repos, everything you see is public domain!
 </p>
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=davidgordon12&langs_count=5&theme=tokyonight)]()
