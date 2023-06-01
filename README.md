@@ -3,4 +3,4 @@
       I have experience in a wide range of frameworks and languages, and the list keeps on expanding! Feel free to take a look through my repos, everything you see is public domain!
 </p>
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=davidgordon12&langs_count=5&theme=tokyonight)]()
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidgordon12&hide=html,css,scss,html&theme=tokyonight)
