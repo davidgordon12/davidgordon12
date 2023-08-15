@@ -4,4 +4,4 @@
       I also love to build good software! 
 </p>
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidgordon12&hide=html,css,scss,asp.net,makefile,batch,html&langs_count=9&theme=tokyonight)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidgordon12&hide=csharp,html,css,scss,asp.net,makefile,batch,html&langs_count=8&theme=tokyonight)
